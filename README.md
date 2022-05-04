@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @rickalx
-- 👀 I’m interested in Linux, Python, Network protocols and related stuff
-- 🌱 I’m currently learning Python and Network automation
+- 👀 I’m interested in Linux, Python, Network protocols and cloud technologies
+- 🌱 I’m currently learning Python and cloud technologies
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: 
 🦉 [twitter][twitter] **|** 
