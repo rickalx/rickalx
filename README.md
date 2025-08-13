@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-💻 Python | Django | Linux | Cloud Enthusiast ☁️
+💻 Web3 | Blockchain | Python | Linux
 
-Hello! I'm a developer passionate about building robust and scalable applications. My expertise lies in Python, the Django framework, and Linux environments. I'm currently deeply immersed in the world of cloud computing, exploring cloud-native development and infrastructure as code.
+Hello! I'm a developer passionate about the future of decentralized applications and the potential of Web3. My journey began in the world of Python and cloud computing, but I'm now deeply focused on blockchain technology, exploring its vast possibilities.
 
-- 🔭 I’m currently working on: Building a serverless chatbot application.
-- 🌱 I’m currently learning: Cloud-native development, diving into the intricacies of cloud security.
-- 👯 I’m looking to collaborate on: Projects that leverage cloud technologies to solve real-world problems, especially in automation and scalability.
-- 🤔 I’m looking for help with: Optimizing cloud infrastructure costs and best practices for deploying Django applications in a containerized environment.
-- 💬 Ask me about: Python web development, Django REST APIs, Linux system administration, or cloud deployment strategies.
-- 📫 How to reach me: https://github.com/rickalx | Feel free to reach out via rcrdfj@gmail.com!
-- 😄 Pronouns: He/him
+🔭 I’m currently working on: Exploring the Ethereum ecosystem and building my first decentralized applications (dApps).
+🌱 I’m currently learning: Ethereum development, diving into concepts like Zero-Knowledge Proofs (ZKP) and smart contracts with Solidity.
+👯 I’m looking to collaborate on: Innovative Web3 projects, especially those focused on decentralized finance (DeFi) or security solutions using ZKP.
+🤔 I’m looking for help with: Best practices for smart contract security and optimizing gas costs on the Ethereum network.
+💬 Ask me about: Web3, Ethereum, Python, or my journey from traditional software development to the blockchain space.
+📫 How to reach me: https://github.com/rickalx | Feel free to reach out via rcrdfj@gmail.com!
+😄 Pronouns: He/him
